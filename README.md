@@ -2,6 +2,16 @@
 
 ## Strategy
 
+- [ ] Why you should upgrade?
+  - [ ] Performance improvements
+  - [ ] New features
+  - [ ] Security fixes
+  
+- [ ] Why leaders are so reluctant?
+  - [ ] Legacy apps/scripts
+  - [ ] Breaking changes
+  - [ ] Laziness
+
 - [ ] Backup 
   - [ ] Test Plans
   - [ ] Test Data
@@ -19,7 +29,6 @@
   - [ ] Download and extract the newer version of JMeter   
   - [ ] Launch JMeter and open the test plan
   - [ ] Smoke Test
-  - [ ] If all is good ✅
 
 - [ ] Not able to open
   - [ ] Plugins
@@ -32,3 +41,12 @@
   - [ ] Certificates and credentials
   - [ ] Check if any breaking changes
   - [ ] Check the log file to troubleshoot
+
+- [ ] Strategy
+  - [ ] Work as a team
+  - [ ] Automate e.g bash to terraform
+  - [ ] Baseline the performance 
+  - [ ] Deploy a upgrade plan
+    - [ ] Every major release
+    - [ ] Only critical fixes
+    - [ ] Every quarter/half-yearly/annual
