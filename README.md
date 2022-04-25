@@ -10,7 +10,7 @@
 - [ ] Why leaders are so reluctant?
   - [ ] Legacy apps/scripts
   - [ ] Breaking changes
-  - [ ] Laziness
+  - [ ] Apathetic
 
 - [ ] Backup 
   - [ ] Test Plans
